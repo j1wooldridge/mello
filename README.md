@@ -4,7 +4,7 @@ This is a javascript version exercise only with no backend
 
 
 
-![](images\mello.png) 
+<img src="images/mello.png" width="720"> 
 
 
 
