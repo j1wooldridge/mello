@@ -2,7 +2,12 @@
 
 
 
-![](images/mello.png "Screenshot of Mello frontend app") 
+
+
+
+
+
+![](images/Mello.png "Screenshot of Mello frontend app") 
 
 
 
