@@ -2,7 +2,7 @@
 
 
 
-![alt text](images/mello.png "Description goes here") 
+![](images/mello.png "Screenshot of Mello frontend app") 
 
 
 
